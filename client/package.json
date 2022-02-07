@@ -9,7 +9,7 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "author": "client",
+  "author": "Sushmita Kumari",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2",
